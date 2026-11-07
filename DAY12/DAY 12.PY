@@ -1,4 +1,4 @@
-'''
+s'''
 s = 'codegnan' 
 for i in  s:
    print(i)         
