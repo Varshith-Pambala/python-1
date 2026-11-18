@@ -79,3 +79,11 @@
 
 #print(len(s))
 
+#def f(n):
+#    if n ==1:
+#        return 1
+#    return n+f(n-2)
+#f(10)
+
+def display_profile(fullname,age,city,qualification,profession)
+    print(f"fullname     :")

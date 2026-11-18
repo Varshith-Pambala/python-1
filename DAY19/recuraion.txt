@@ -1,0 +1,118 @@
+Write a Python program to print numbers from 1 to N using recursion.
+
+
+
+Write a Python program to print numbers from N to 1 using recursion.
+
+
+
+Write a Python program to find the sum of first N natural numbers using recursion.
+
+
+
+Write a Python program to find the factorial of a given number using recursion.
+
+
+
+Write a Python program to print all even numbers from 1 to N using recursion.
+
+
+
+Write a Python program to print all odd numbers from 1 to N using recursion.
+
+
+
+Write a Python program to find the sum of all even numbers from 1 to N using recursion.
+
+
+
+Write a Python program to find the sum of all odd numbers from 1 to N using recursion.
+
+
+
+Write a Python program to calculate the power of a number using recursion.
+
+
+
+Write a Python program to find the multiplication of two numbers using recursion (without using *).
+
+
+;;;
+
+Write a Python program to find the sum of digits of a given number using recursion.
+
+
+
+Write a Python program to count the number of digits in a given number using recursion.
+
+
+
+Write a Python program to reverse a given number using recursion.
+
+
+
+Write a Python program to check whether a number is a palindrome using recursion.
+
+
+
+Write a Python program to find the greatest common divisor (GCD) of two numbers using recursion.
+
+
+
+Write a Python program to find the Fibonacci series using recursion.
+
+
+
+Write a Python program to find the Nth Fibonacci number using recursion.
+
+
+
+Write a Python program to check whether a number is prime using recursion.
+
+
+
+Write a Python program to find the product of digits of a given number using recursion.
+
+
+
+Write a Python program to find the largest digit in a given number using recursion.
+
+;;
+
+Write a Python program to reverse a string using recursion.
+
+
+
+Write a Python program to check whether a string is a palindrome using recursion.
+
+
+
+Write a Python program to count vowels in a string using recursion.
+
+
+
+Write a Python program to find the length of a string without using len() using recursion.
+
+
+
+Write a Python program to calculate the sum of all elements in a list using recursion.
+
+
+
+Write a Python program to find the largest element in a list using recursion.
+
+
+
+Write a Python program to find the smallest element in a list using recursion.
+
+
+
+Write a Python program to count the occurrences of a particular element in a list using recursion.
+
+
+
+Write a Python program to check whether a given element exists in a list using recursion.
+
+
+
+Write a Python program to remove duplicate elements from a list using recursio
