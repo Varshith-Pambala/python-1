@@ -108,7 +108,7 @@ data={}
 for i in range(3):
     name = input("Enter the name of the student: ")
     marks = input("Enter the marks: ")
-    data[name]=marks
+    data[name]=marks 
 
 highestmark(data)
 #lowestmarks(data
