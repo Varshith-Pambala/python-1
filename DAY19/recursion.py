@@ -103,5 +103,12 @@ s="pythone"
 display(0)
 
 '''''
+def display(n):
+    if n>len(s):
+        print()
+        return()
+    print(s[:n+1])
+    display(n+1)
 
-R
+s="pythone"
+display(0)
