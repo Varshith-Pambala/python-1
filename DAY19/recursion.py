@@ -82,6 +82,7 @@ def factorial(n):
 print(factorial(5))
 '''
 
+'''''
 def sumfirst(n):
     if n == len(l):
         return 0
@@ -89,3 +90,18 @@ def sumfirst(n):
 
 l=[11,2234,55,754,345,7544,23,454,]
 print(sumfirst(6))
+'''
+'''''''''
+def display(n):
+    if n>len(s):
+        print()
+        return()
+    print(s[:n+1])
+    display(n+1)
+
+s="pythone"
+display(0)
+
+'''''
+
+R

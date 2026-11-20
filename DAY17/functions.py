@@ -111,4 +111,4 @@ for i in range(3):
     data[name]=marks
 
 highestmark(data)
-#lowestmarks(data)
+#lowestmarks(data
