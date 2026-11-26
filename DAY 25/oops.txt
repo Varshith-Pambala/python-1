@@ -1,0 +1,110 @@
+why we are skipping from procedural to object oriented programming?*
+Python supports different programming approaches.
+In procedural programming, we write code as a collection of functions and execute them step by step.
+OOP organizes related data and functions together using classes and objects.
+---------------------
+what is class*
+A class is a blueprint or template used to create objects.
+Practical example: Think about YouTube.
+
+YouTube has a user profile design containing:
+- Username
+- Email
+- Channel name
+- Subscribers
+----------------------
+what is object*
+An object is an instance of a class.
+Practical example:
+
+Imagine Instagram has two users:
+- User 1: Varshith
+- User 2: Rahul
+---------------------
+what is atribute*
+An attribute is a variable that belongs to a class or an object. It stores information about that object
+Practical example: LinkedIn profile.
+
+A LinkedIn user may have:
+- Name
+- Job title
+- Skills
+- Experience
+- Location
+-------------------
+what is a method*
+A method is a function defined inside a class. It describes what an object can do.
+
+Practical example: LinkedIn
+
+What can an LinkedIn user do?
+- Upload a post
+- Like a post
+- send connection or follow someone
+- Send a message
+---------------------
+what is Encapsulation*
+Encapsulation means wrapping data and methods together inside a class and controlling access to the data.
+
+Practical example: Instagram account
+Imagine your Instagram account has a password.
+
+Other users should not directly change your password through your profile. You should control how it gets changed.
+
+Why do we use encapsulation?
+- Control access to data.
+- Protect internal information.
+- Avoid unwanted changes.
+- Keep data and related methods together.
+------------------------------
+what is Inheritance*
+Inheritance allows one class to acquire the attributes and methods of another class.
+
+Practical example: LinkedIn.
+
+Imagine LinkedIn has normal users and premium users.
+
+Both users have:
+- Profile
+- Name
+- Skills
+But premium users have additional features.
+
+Instead of writing the same code again, we can inherit it.
+Why do we use inheritance?
+- Reuse existing code.
+- Avoid duplicate code.
+- Extend existing functionality.
+- Make applications easier to maintain.
+
+Here:
+- LinkedInUser = Parent class
+- PremiumUser = Child class
+- PremiumUser(LinkedInUser) = Inheritance
+------------------------
+
+what is Polymorphism
+Polymorphism means one name or interface can have different behaviours depending on the object.
+
+Practical example: Instagram, LinkedIn and YouTube.
+
+Imagine all three applications have a method called notification().
+
+But each application displays a different notification
+All three classes have the same method name notification(), but each produces a different result.
+
+That is polymorphism.
+----------------------------
+what is Abstraction
+Abstraction means hiding internal implementation details and showing only the necessary functionality to the user.
+
+Practical example: YouTube.
+
+When you click the Play button:
+- You see the video playing.
+- You don't need to understand all the internal video-processing operations.
+You only interact with the necessary functionality.
+Here:
+- ABC creates an abstract base class.
+- @abstractmethod defines a method that child classes must implement.
+- Video provides the actual implementation.
